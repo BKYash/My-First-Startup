@@ -1,0 +1,36 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+    background: url(file:///D:/course%20udemy/start%20up/header.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  hr{
+    border-width: 3px;
+    border-color: #d63429;
+    max-width: 65px;
+  }
+  .buffer{
+    height: 5rem;
+  }
+  .btn{
+    font-weight: 700;
+    border-radius: 300px;
+    background-color: #eb3428;
+    text-transform: uppercase;
+    border-color: #d63429;
+  }
+.btn:hover{
+  background-color: #d63429;
+  border-color: #d63429;
+  border-width : 2px
+}
+h1{font-size: 3 rem;
+color: beige}
+.btn-xl{
+  padding: 1rem 2rem;
+}
